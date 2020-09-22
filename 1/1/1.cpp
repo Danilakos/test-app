@@ -13,7 +13,9 @@ int main()
 	printf("Enter the sides");
 	scanf_s("%f %f", &a, &b);
 	math(a, b);
-		
+	
+	printf ("Ars pars");
+	
 	return 0;
 }
 
